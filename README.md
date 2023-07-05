@@ -8,5 +8,5 @@ A aplicação consiste na reunião de jogadores de futebol anônimos, organizand
 
 ## Storyboard
 
-![story](https://github.com/aecio007/Futebolando/assets/105012287/5451677a-9180-42c0-9c1d-53192fb59edd)
+
 
