@@ -6,6 +6,11 @@ Futebolando é uma aplicação mobile construida para disciplina IHC mobile da U
 
 A aplicação consiste na reunião de jogadores de futebol anônimos, organizando localizando e conectando jogadores interessados. 
 
+## Layout
+
+![WhatsApp Image 2023-07-05 at 19 51 13 (1)](https://github.com/aecio007/Futebolando/assets/105012287/affa1404-5a3b-4142-9fcf-5df6e568506b) ![WhatsApp Image 2023-07-05 at 19 51 13 (2)](https://github.com/aecio007/Futebolando/assets/105012287/753ee06f-1197-44e8-ae29-1c5f436d107e)
+
+
 ## Storyboard
 
 ![ft2](https://github.com/aecio007/Futebolando/assets/105012287/82ea575c-4830-47c2-9b94-c47eef0a25c0)
