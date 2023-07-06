@@ -29,3 +29,6 @@ A aplicação consiste na reunião de jogadores de futebol anônimos, organizand
 ## Diagrama de Atividades
 
 ![Captura da Web_5-7-2023_17340_docs google com](https://github.com/aecio007/Futebolando/assets/105012287/6099ea49-9e2f-422f-9ed1-7912960c8c56)
+
+
+[Documento de Definicão de Requisitos](https://drive.google.com/file/d/1suDcQsgzoUJ5DVWYrImw5NqKns6DssiM/view)
