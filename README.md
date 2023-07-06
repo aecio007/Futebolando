@@ -39,3 +39,12 @@ Projeto em desenvolvimento para a disciplina IHC/Mobile,Futebolando é uma aplic
 [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwqZSlBhBwEiwAfoZUIFfUhKt1OJebTmiiO9Z3vR0FMwWI2Q6QZ_Y8jTmGpIqr_D_p0Q6zMxoC4hQQAvD_BwE&gclsrc=aw.ds)
 
 [Figma](https://www.figma.com/)
+
+# Autores
+[Guilherme França](https://github.com/Guilherme-Franca-de-Souza)
+
+[Deivisson Gomes](https://github.com/dsgomess)
+
+[Aécio de Oliveira](https://github.com/aecio007)
+
+Gilmar Santos
