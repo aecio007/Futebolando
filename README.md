@@ -8,7 +8,9 @@ A aplicação consiste na reunião de jogadores de futebol anônimos, organizand
 
 ## Layout
 
-![WhatsApp Image 2023-07-05 at 19 51 13 (1)](https://github.com/aecio007/Futebolando/assets/105012287/affa1404-5a3b-4142-9fcf-5df6e568506b) ![WhatsApp Image 2023-07-05 at 19 51 13 (2)](https://github.com/aecio007/Futebolando/assets/105012287/753ee06f-1197-44e8-ae29-1c5f436d107e)
+![WhatsApp Image 2023-07-05 at 19 51 13 (1)](https://github.com/aecio007/Futebolando/assets/105012287/affa1404-5a3b-4142-9fcf-5df6e568506b)    ![WhatsApp Image 2023-07-05 at 19 51 13 (2)](https://github.com/aecio007/Futebolando/assets/105012287/753ee06f-1197-44e8-ae29-1c5f436d107e)
+
+![WhatsApp Image 2023-07-05 at 19 51 13](https://github.com/aecio007/Futebolando/assets/105012287/9674b985-01e9-4664-9ef5-d9346d89bfbf)    ![WhatsApp Image 2023-07-05 at 20 09 30](https://github.com/aecio007/Futebolando/assets/105012287/62f7f46b-4c5c-4751-861a-d62b85ba7698)
 
 
 ## Storyboard
